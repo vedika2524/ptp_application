@@ -34,11 +34,5 @@ Step 4 :	After successfully completed installing
 
 
 
-	
-
-check api working in postman by checking - all routes in routes.js file 
-
-POSTMAN LINK -		http://localhost:5000/api/get/all
-
 
 
